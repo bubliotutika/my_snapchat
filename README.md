@@ -1,5 +1,5 @@
 # my_snapchat
-Realisation d'une application snapchat like pour mobile
+Realisation d'une application React Native snapchat like pour mobile
 
 Pour démarrer l'application:
 - 1: installer les dépendances: "npm i"
