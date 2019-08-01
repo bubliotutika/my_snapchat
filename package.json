@@ -1,0 +1,46 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@ant-design/react-native": "^3.1.6",
+    "axios": "^0.18.0",
+    "expo": "^32.0.6",
+    "expo-core": "^2.0.2",
+    "expo-google-sign-in": "^4.0.0",
+    "expo-react-native-adapter": "^2.0.0",
+    "react": "^16.8.6",
+    "react-art": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-native": "^0.57.8",
+    "react-native-elements": "^1.1.0",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-web": "^0.11.2",
+    "react-navigation": "^3.9.1",
+    "react-router-dom": "^5.0.0",
+    "react-router-native": "^5.0.0",
+    "react-scripts": "^3.0.0",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true,
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
